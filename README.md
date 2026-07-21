@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Mazen 👋
 
-<!--
-**Mazen-Moh/Mazen-Moh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programmer who enjoys learning, building projects, and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🚀 Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Learning and improving my programming skills
+- Building projects to practice what I learn
+- Exploring Python, OOP, and AI
+
+## 🛠️ Technologies
+
+- Python
+- Git & GitHub
+
+## 📌 Projects
+
+- PyAssist — A Python terminal assistant project built to practice OOP and Python concepts.
+
+---
+
+> Always learning. Always building. 🚀
